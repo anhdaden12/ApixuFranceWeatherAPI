@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F479440022E6BB74004C84E5 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F47943FF22E6BB74004C84E5 /* Extension.swift */; };
 		F482BCF522C99037000AB155 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F482BCF422C99037000AB155 /* AppDelegate.swift */; };
 		F482BCF722C99037000AB155 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F482BCF622C99037000AB155 /* ViewController.swift */; };
 		F482BCFA22C99037000AB155 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F482BCF822C99037000AB155 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F47943FF22E6BB74004C84E5 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 		F482BCF122C99037000AB155 /* Apixu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Apixu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F482BCF422C99037000AB155 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F482BCF622C99037000AB155 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 			children = (
 				F482BCF422C99037000AB155 /* AppDelegate.swift */,
 				F482BCF622C99037000AB155 /* ViewController.swift */,
+				F47943FF22E6BB74004C84E5 /* Extension.swift */,
 				F482BCF822C99037000AB155 /* Main.storyboard */,
 				F482BD0622C99044000AB155 /* Model.swift */,
 				F482BD0822C9A0BB000AB155 /* DataService.swift */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F479440022E6BB74004C84E5 /* Extension.swift in Sources */,
 				F482BD0722C99044000AB155 /* Model.swift in Sources */,
 				F482BCF722C99037000AB155 /* ViewController.swift in Sources */,
 				F482BCF522C99037000AB155 /* AppDelegate.swift in Sources */,
